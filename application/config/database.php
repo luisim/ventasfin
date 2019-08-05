@@ -76,10 +76,10 @@ $active_record = TRUE;//ci version 2.x
 
 $db['default'] = array(
     'dsn'   => '',
-    'hostname' => '127.0.0.1',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'erp3',
+    'hostname' => 'us-cdbr-iron-east-02.cleardb.net',
+    'username' => 'b82f240fa3d9a6',
+    'password' => '325477ea',
+    'database' => 'heroku_829d661fe9c5949',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
